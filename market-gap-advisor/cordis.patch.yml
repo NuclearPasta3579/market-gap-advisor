@@ -1,0 +1,5 @@
+# Host-only bundle: one row registering the market-gap-advisor skill.
+- insert:
+    - id: market-gap-advisor
+      name: '@local/market-gap-advisor'
+      config: {}

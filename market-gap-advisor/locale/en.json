@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Market gap advisor",
+    "description": "Finds installable plugins in the plugin indexes you configured when a capability is missing, and asks once before installing. Requires the plugin_market tool and at least one index source; installs apply to the whole profile and may require a restart."
+  }
+}
